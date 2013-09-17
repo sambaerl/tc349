@@ -1,4 +1,14 @@
+body {
+	background-color: purple;
+	border: 10px solid;
+}
+
 h1 { 
 	font-family: Ariel;
-	color: blue;
+	color: white;
 }
+
+a {
+	color: #CC6666;
+	
+} 

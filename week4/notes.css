@@ -1,0 +1,26 @@
+body {
+	background: #cc9999;
+	border-top: 5px solid #000066;
+	margin: 0;
+	font-family: "Georgia", serif;
+	line-height: 1.4em;
+}
+
+
+h1 {
+	margin: 0;
+	padding: 20px 15px;
+	background: #aaa;
+	text-align: center;
+	color: #000066;
+	text-shadow: 1px 1px 2px #fff;
+}	
+
+ .image{	
+	background: #fff;
+	border-top: 8px dashed #000066;
+	width: 600px;
+	margin: 0 auto;
+}
+
+

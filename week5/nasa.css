@@ -1,0 +1,26 @@
+body {
+	background-color: #699;
+	color: black;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: justify;
+	width: 950px;
+}
+
+h1 { 
+	padding-top: 1px;
+	font-family: "MS Serif", "New York", serif;
+	color: Black;
+	text-shadow: 2px 2px 3px #666;
+
+}
+
+img {
+	border: 5px double #FFF;
+  }
+
+table td{
+	width: 50em;
+	padding: 2px;
+	
+}
+
